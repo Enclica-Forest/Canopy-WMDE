@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Canopy Desktop X11
+Comment=Canopy Window Manager with Desktop Environment
+Exec=/usr/local/bin/start-canopy
+Type=XSession
