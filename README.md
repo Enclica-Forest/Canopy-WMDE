@@ -1,2 +1,2 @@
 # Canopy-WMDE
-Canopy window manager &amp; desktop enviroment
+Canopy window manager &amp; desktop environment
